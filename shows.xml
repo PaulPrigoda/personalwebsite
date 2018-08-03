@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+<venue>
+ <College>Conn College</College>
+ <artist>PT</artist>
+ <date>July 1st, 2017</date>
+</venue>
+
+<venue>
+ <College>Richmond</College>
+ <artist>PT</artist>
+ <date>July 3rd, 2017</date>
+</venue>
+    
+<venue>
+ <College>Miami</College>
+ <artist>PT</artist>
+ <date>July 4th, 2017</date>
+</venue>
+    
+<venue>
+ <College>Wisconson</College>
+ <artist>PT</artist>
+ <date>July 7th, 2017</date>
+</venue>
+    
+<venue>
+ <College>Texas</College>
+ <artist>PT</artist>
+ <date>July 10th, 2017</date>
+</venue>
+    
+<venue>
+ <College>UCLA</College>
+ <artist>PT</artist>
+ <date>July 14th, 2017</date>
+</venue>
+    
+<venue>
+ <College>USC</College>
+ <artist>PT</artist>
+ <date>July 15th, 2017</date>
+</venue>
+</collection>
