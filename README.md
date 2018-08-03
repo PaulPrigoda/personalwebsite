@@ -1,0 +1,2 @@
+# personalwebsite
+This was a final project I created for my Web Technology class. Our assignment was to create a website with everything we learned during the semester (this included HTML, CSS, javascript, b00tstraps, SQL, PHP, XML and more). I made a website to advertise I the music I make. Hopefully one day It'll go live. It might be hard to run if you don't have a mock server to run on like I did, but you can still see it by double clicking the php file.
